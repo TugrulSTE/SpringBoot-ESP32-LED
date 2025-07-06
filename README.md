@@ -31,7 +31,7 @@ ESP32 communicates with 3 digit 7-segment display and shows the number comes fro
 The number must be positive and smaller than 1000.
 
 ## Missing Configuration Lines 
-### WARNING: DON'T SHARE THOSE INFORMATIONS WITH ANYONE!
+### WARNING: DO NOT SHARE THESE CONFIGURATIONS PUBLICLY!
 
 communication_led\src\main\java\com\esp32spring\communication_led\LedController.java : You need to fill out ESP32ADDRESS line to send the endpoint to correct address.
 
